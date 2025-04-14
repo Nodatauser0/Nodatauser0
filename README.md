@@ -1,5 +1,5 @@
 ## Hello, I'm George 👋
-🌱 I’m currently learning HTML, CSS, JS, C#
+🌱 I’m currently learning Python
 
 📫 How to reach me: Kim.jorik13@gmail.com
 
